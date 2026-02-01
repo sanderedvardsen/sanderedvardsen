@@ -3,7 +3,7 @@
 ## About me
 
 🎓 Currently studying frontend development at Noroff School of Technology and Digital Media  
-🎂 26 years old  
+🎂 27 years old  
 
 ## Languages and Tools
 
